@@ -73,5 +73,5 @@
 ## 	 Clone this project from existing repository 
 		bower install
 		npm install
-		grunt deleteRepeat /* delete repeat of less src files in the bower_components */
+		grunt deleteRepeat /* delete repeat of sass src files in the bower_components */
 		grunt watch
