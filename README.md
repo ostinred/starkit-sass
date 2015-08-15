@@ -1,6 +1,6 @@
 # Scaffolding 
-### Reclamare web-studio. 
-#### 2015
+### Bootstrap 3  
+#### SASS version
 
 ## Instructions
   
