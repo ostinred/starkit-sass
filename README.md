@@ -5,7 +5,7 @@
 ## Instructions
   
 #### 1. clone files
-		$ git clone git@gitlab.reclamare.ua:common/startkit-sass.git your project name directory
+		$ git clone git@github.com:ostinred/starkit-sass.git your project name directory
 
 #### 2. enter your new folder
 		cd your project name directory
