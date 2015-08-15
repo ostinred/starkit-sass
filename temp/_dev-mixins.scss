@@ -1,0 +1,19 @@
+// border-color mixin
+@mixin border-color($size, $color){
+  border: $size solid $color;
+}
+
+//** BORDER-RADIUS
+//
+// round
+@mixin rounded($value){
+  -webkit-border-radius: $value;
+  -moz-border-radius: $value;
+  border-radius: $value;
+}
+
+@mixin font-weight($font-weight){
+  font-weight: $font-weight;
+}
+
+

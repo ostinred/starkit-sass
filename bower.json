@@ -1,0 +1,39 @@
+{
+  "name": "rcl-scaffolding",
+  "version": "0.1.0",
+  "authors": [
+    "Reclamare"
+  ],
+  "description": "Corporative scaffolding.",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "custom",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "html5shiv": "~3.7.2",
+    "respond": "~1.4.2",
+    "jquery-easing": "*",
+    "font-awesome": "~4.3.0",
+    "owl-carousel2": "~2.0.0-beta.3",
+    "placeholdem": "~1.0.2",
+    "magnific-popup": "~1.0.0",
+    "vivus": "~0.2.2",
+    "modernizr": "~2.8.3"
+  }
+}
